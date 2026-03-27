@@ -17,8 +17,8 @@ Se meu gráfico de commits não está muito ativo no momento, é porque estou re
 
 ## 🛠 Tecnologias que estou estudando
 
-- HTML5
-- CSS3
+- HTML5(em progesso
+- CSS3(em progesso)
 - JavaScript (em progresso)
 - Git e GitHub
 
