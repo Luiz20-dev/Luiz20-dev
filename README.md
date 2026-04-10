@@ -1,48 +1,43 @@
-# 👋 Olá, eu sou o Luiz Eduardo!
+# 👋 Olá, eu sou o Luiz!
 
-💻 Desenvolvedor Front-end em formação  
-🚀 Estudando HTML, CSS e JavaScript  
-📚 Aprendendo na prática e evoluindo todos os dias  
+![header](https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff)
 
 ---
 
-## 🧠 Sobre mim
+## 💻 Skills
 
-Sou iniciante em programação e estou focado em me tornar um desenvolvedor front-end profissional.  
-Atualmente estou estudando e organizando meus conhecimentos antes de iniciar novos projetos maiores.
-
-Se meu gráfico de commits não está muito ativo no momento, é porque estou revisando fundamentos e me preparando para construir projetos mais estruturados 🚀
-
----
-
-## 🛠 Tecnologias que estou estudando
-
-- HTML5(em progesso
-- CSS3(em progesso)
-- JavaScript (em progresso)
-- Git e GitHub
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
 
 ---
 
-## 📈 Objetivo
+## 📊 Nível de conhecimento
 
-Construir projetos cada vez mais completos e conquistar minha primeira oportunidade como desenvolvedor front-end.
-
----
-
-## 📌 Próximos Passos
-
-- Criar novos projetos práticos
-- Aprender JavaScript DOM
-- Desenvolver projetos responsivos
-- Evoluir para frameworks como React futuramente
+![HTML](https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-60%25-grey?style=for-the-badge&logo=c)
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas
 
-(Em breve adicionarei LinkedIn e outras redes profissionais)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz20-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz20-dev&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🚀 Sobre mim
+
+- 🎓 Estudante de ADS  
+- 💻 Focado em desenvolvimento web  
+- 🚀 Sempre aprendendo coisas novas  
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=footer)
