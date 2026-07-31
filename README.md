@@ -6,10 +6,15 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de ADS  
-- 💻 Focado em desenvolvimento web  
-- ⚛️ Aprendendo React  
-- 🚀 Evoluindo todos os dias  
+🎓 Estudante de ADS no IFSP
+
+💻 Desenvolvedor Front-end
+
+🚀 Estudando React e JavaScript
+
+📚 Sempre aprendendo novas tecnologias
+
+🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor.
 
 ---
 
@@ -24,19 +29,6 @@
 </div>
 
 ---
-
-## 📊 Nível de conhecimento
-
-### 🔥 Intermediário
-![HTML](https://img.shields.io/badge/HTML-85%25-green?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-60%25-green?style=for-the-badge&logo=css3)
-
-### ⚙️ Básico
-![JavaScript](https://img.shields.io/badge/JavaScript-45%25-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-45%25-yellow?style=for-the-badge&logo=c)
-
-### 🌱 Aprendendo
-![React](https://img.shields.io/badge/React-5%25-blue?style=for-the-badge&logo=react)
 
 ---
 
